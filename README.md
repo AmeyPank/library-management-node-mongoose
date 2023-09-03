@@ -1,13 +1,13 @@
 # library-management-node-mongoose
-#Website
+# Website
 Project Overview (80 Marks)
 IDE to be used
 Any IDE, preferably VS Code
 
-#Deploymemt
+# Deploymemt
 Code deployment on GitHub and project deployment on Railway
 
-#Problem Statement
+# Problem Statement
 Build a Library Management for admin using NodeJS.
 
 
@@ -28,7 +28,7 @@ You need to perform all the CRUD operations using REST API and MongoDB
 Build the profile page.
 
 
-#Registration Page. (20 marks)
+# Registration Page. (20 marks)
 
 Should render registration form on ‘{url} / registration’. (5 marks)
 Registration form should include the following:- (5 marks)
@@ -63,10 +63,10 @@ Admin should be able to delete and update the book's details. (10 marks)
 Optimized the DB call using rate-limiting for 2 hits / 1 second (500ms) for the fields present on the dashboard page. (5 marks)
 Design Links
 
-#Figma Link for dashboard:
+# Figma Link for dashboard:
 https://www.figma.com/file/kWAs0sPrlH9SHwmyG0pXkM/Accio-Project?node-id=0-1&t=W4LTIdODJrcwVLJy-0
 
-#Resgistration Form
+# Resgistration Form
 https://storage.googleapis.com/acciojob-open-file-collections/99918623-8cd8-44f3-8ab3-ec30d0bb9a42unnamed.png
 
 #Login Form
