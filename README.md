@@ -68,7 +68,7 @@ Design Links
 https://www.figma.com/file/kWAs0sPrlH9SHwmyG0pXkM/Accio-Project?node-id=0-1&t=W4LTIdODJrcwVLJy-0
 
 # Resgistration Form
-https://storage.googleapis.com/acciojob-open-file-collections/99918623-8cd8-44f3-8ab3-ec30d0bb9a42unnamed.png
+https://book-app-frontend-432ecym56-ameypank.vercel.app/user/signup
 
 # Login Form
-https://storage.googleapis.com/acciojob-open-file-collections/1df9f3cd-0fe2-49ae-88e2-28ecefb551d3unnamed (1).png
+https://book-app-frontend-432ecym56-ameypank.vercel.app/user/login
