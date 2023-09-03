@@ -1,0 +1,11 @@
+.signup-form {
+    /* max-width: 30vw;
+    min-width: 50vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+    width: 45em;
+
+    margin: auto;
+}
